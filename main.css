@@ -1,0 +1,46 @@
+body {
+    background-color: #83cb53;
+    background-image: url("https://www.alertageekchile.cl/wp-content/uploads/2018/11/UZKEjzG.png");
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: 100%;
+    font-family: 'Bangers', cursive;;
+    letter-spacing: 1px;
+}
+
+#lista-pokemones {
+
+    border-radius: .75rem;
+    border: 5px solid #31309a;
+}
+
+li.list-group-item.active {
+    background-color: #31309a !important;
+    border-color: #31309a !important;
+    color: #f5ce2e !important;
+}
+
+#carta-pokemon {
+    border-radius: .75rem;
+    border: 5px solid #31309a;
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2fb2821a-1406-4a1d-9b04-6668f278e944/d843okx-eb13e8e4-0fa4-4fa9-968a-e0f36ff168de.png/v1/fill/w_800,h_480,q_80,strp/pokemon_x_and_y_battle_background_11_by_phoenixoflight92_d843okx-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD00ODAiLCJwYXRoIjoiXC9mXC8yZmIyODIxYS0xNDA2LTRhMWQtOWIwNC02NjY4ZjI3OGU5NDRcL2Q4NDNva3gtZWIxM2U4ZTQtMGZhNC00ZmE5LTk2OGEtZTBmMzZmZjE2OGRlLnBuZyIsIndpZHRoIjoiPD04MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9xZ3RrGc6_lZXQSqfSA4a67wLV7m6UrMXWBLltH9-AI");
+}
+
+#nombre-pokemon {
+    color: #f5ce2e;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #1b1a64;
+}
+
+.tipo-de-pokemon {
+    margin-left: 0.5rem;
+}
+
+.habilidad {
+    margin-left: 0.5rem;
+}
+
+#estadisticas-pokemon {
+    border-radius: .75rem;
+    border: 5px solid #31309a;
+}

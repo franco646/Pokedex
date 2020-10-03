@@ -1,0 +1,29 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "API pokedex para r/argentina programa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franco646/Pokedex.git"
+  },
+  "author": "franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franco646/Pokedex/issues"
+  },
+  "homepage": "https://github.com/franco646/Pokedex#readme",
+  "devDependencies": {
+    "cypress": "^5.2.0",
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
